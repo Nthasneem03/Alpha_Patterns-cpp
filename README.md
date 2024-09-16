@@ -20,3 +20,8 @@
 2. Open with VS Code: Open the cloned repository in Visual Studio Code (VS Code) or your preferred code editor.
   
 3. Start Coding: Explore the different  Alphabetic Patterns, make changes, and experiment with different inputs to see how they affect the Patterns.
+
+
+
+## Contributing
+Feel free to fork this repository and submit pull requests. If you find any issues or have suggestions for improvements, please open an issue.
